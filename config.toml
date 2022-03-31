@@ -1,3 +1,18 @@
-baseURL = 'http://example.org/'
+baseURL = ''
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Javier Hernandez'
+
+
+defaultContentLanguage = "en"
+colorScheme = "slate"
+
+
+
+[author]
+  name = "Javier Hernandez"
+  image = "img/ProfilePic.jpg"
+  headline = "A generally awesome human"
+bio = "A little bit about me"
+links = [
+  { twitter = "https://twitter.com/username" }
+]
