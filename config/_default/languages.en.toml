@@ -14,7 +14,7 @@ dateFormat = "January 2 2006"
 
 [author]
   name = "Javier Hernandez"
-  image = "static/img/Headshot _2.png"
+  image = "img/Headshot_2.png"
   headline = "Business Administration"
   # bio = "A little bit about you"
    links = [
