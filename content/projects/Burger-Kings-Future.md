@@ -6,7 +6,7 @@ draft: False
 
 ![Burger King](/images/burger-king-logo.jpg)
 
-- - - - - - - - - - - - - - - - - - - - - - -
+
 ## Overview
 For the longest time, Burger King has been one of the top fast-food restaurants in the country. However, today, that is not the case.  Since the opening of the fast-food chain in 1954, Burger King has been trying to differentiate itself from its competitors. Their key factor being the flame broiler they love to tout. In the case study done by Laura Heely, it states, “[u]nsatisfied with traditional broilers on the market, James W. McLamore and David Edgerton, invented Burger King’s famous flame broiler…” (2018, p. 5). The founders saw an opening in the market of the fast-food industry with something that makes them different. Burger King has always tried to better its position in the market. An article from Business Insider states, “In 1979, former McDonald's executive Donald N. Smith introduced the new menu items as well as signature burgers in a strategy to target older customers who were willing to spend a little more on quality food” (McDowell 2020). Burger King has tried to incorporate new things in order to come out on top in the fast-food race. Even though they do this, they still seem to be failing. In an article published by Geekspin, Saclao states, “Burger King, which held the second spot in last year’s ranking, is now down to sixth” (Saclao 2021). This fact shows just how much they have fallen, and this wasn’t the only time it lost the number 2 spot. In the case study, Heely states that it lost the number spot to Wendy’s back in 2012 (2018). Burger King needs to do something soon to come back from this loss.
 ## The Problem
