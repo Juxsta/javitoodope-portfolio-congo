@@ -37,7 +37,7 @@ Although Peet’s is old in the coffee business, it does not hold a major share 
 century coffee industry
 
 ## RESEARCH PLAN 
-The Positioning and mapping model is used to conduct our research. “Positioning” in the minds  of customers typically results when an organization follows deliberate strategies to design products  with characteristics distinct from those of its competitors and then communicates these differences  to the targeted customers. The goal of positioning will help the organization to recognize them and  their product superiority in customer minds and also help them to market establish the image or  identification of a brand. 
+The positioning and mapping model is used to conduct our research. “Positioning” in the minds  of customers typically results when an organization follows deliberate strategies to design products  with characteristics distinct from those of its competitors and then communicates these differences  to the targeted customers. The goal of positioning will help the organization to recognize them and  their product superiority in customer minds and also help them to market establish the image or identification of a brand. 
 
 To perform positioning analysis, we used a combination of perceptual (attribute-based data) and  preference (that rely on preference data e.g., rank-orders of brands by customers) mapping. We  used this because both perceptions and preferences influence customer behavior.  
 
@@ -85,3 +85,56 @@ The axes of a perceptual map are the dimensions along which customers distinguis
 **Figure 3**  
 2-D Perceptual Map:  
 ![Perceptual Map](/images/perceptual-map.png)
+
+* Based on the perceptual map (Figure 3), Peet’s Coffee is placed comparatively closer to Dunkin Donuts. 
+* The public perception of each of the Coffee Brands under consideration is very distinct from each other as illustrated by the 2-D perpetual map.  
+* Starbucks is one of the key players in the Coffee Chains industry and is placed much  farther from Peet’s Coffee & Tea. This implies that people like Peet’s and Starbucks for  different reasons.  
+* Peet’s Coffee gets a higher rating for Dietary Preferences, Variety of Coffee Flavors, Taste  of Coffee, Ambience, Sanitation/Overall Cleanliness, which means it is comparatively well  positioned across Dimension 1 as compared to Dimension 2. 
+* It also indicates that Peet's Coffee has a distinguishing market image in terms of the Taste  and Variety of its Coffee flavors and also is known to accommodate different dietary  requirements/preferences and also perceived as a clean/neat place. 
+* The major competitors for Peet’s Coffee & Tea is Starbucks since these brands have  “Coffee” as their primary focal product. 
+* Starbucks is highly ranked in terms of Loyalty Programs, Taste of Coffee, Variety, Mobile  App Experience, Sales promotions. This suggests that Starbucks is observed to be well  positioned along both the Dimensions. It is doing well in terms of Exclusivity and  Reachability. 
+* In order to achieve an improved brand perception, Peet’s Coffee & Tea must position it  well firstly, along the “Reachability” Dimension (Dimension 2) and on the "Exclusivity" Dimension (Dimension 1) as well.
+
+**Preference Data:** 
+* Based on the preference data (Figure 4 below), we observe that Starbucks and Peet’s tea and  Coffee are close to each other as the top preference. On the other hand, Dunkin Donuts and McDonald’s are much less preferred. 
+
+**Figure 4**  
+![Preference Data](/images/preference-data.jpg)
+
+## REPOSITIONING PEET’S COFFEE AND TEA
+**Figure 5**  
+![Perceptual Map](/images/Picture5.jpg)
+
+* Peet’s Coffee lags significantly behind in terms of Loyalty Programs, Mobile App Experience, Sales promotions, Drive-Thru Experience, Home Delivery/Pickup Service. 
+* Peet’s Coffee must reposition itself along the “Reachability” Dimension and also on the  “Exclusivity” Dimension. 
+* Since, it has comparatively better recognition with respect to “Exclusivity” it is hence,  important to improve on the “Reachability” dimension primarily. 
+* Repositioning itself along the “Reachability” dimension is a relatively viable solution  which can be achieved by employing efficient and well thought marketing strategies. 
+
+## LIMITATIONS 
+The responses collected from the questionnaire might be slightly biased as the responses are  confined to friends and family of the team member who majorly reside in the Bay area. The sample  which we used for our analysis was limited to 60 respondents. We could have had a larger sample  size to get better insights. The experience attributes are impacted given the pandemic situation,  since people have not been able to spend time in the Coffee shops. People go to coffee shops for experience, but, due to COVID-19, we have responses where people are preferring drive thru  experience. This Project does not consider segmentation analysis for the focal brand, which is an  important step that helps identify the target market segment. The respondents demographic has not been considered while sending the questionnaire.
+ 
+## MARKETING PROGRAM RECOMMENDATIONS & INSIGHTS  
+**Figure 6**  
+![Picture6](/images/Picture6.png)  
+We recommend following insights for repositioning Peet’s Coffee with respect to Figure 6: 
+* To identify the target segment by conducting market research and focusing on consumer  behavior of the target segment. 
+* Peet’s has a comparatively better ranking in regard to “Exclusivity” which means,  customers having more inclination/liking towards specific/specialty taste and variety of  coffee, who are avid coffee drinkers might be a better choice as a target segment. 
+* It lags behind in terms of the “Reachability”. If it improves on its reach, it can also be a  choice of Coffee drinkers who majorly care about the ease/convenience of buying coffee. 
+* Although, our analysis is focused on Positioning, identifying a target segment using  Segmentation Analysis is highly recommended followed by the Positioning.
+* Improving on the advertisement. Devising an effective advertising campaign that would  showcase Peet’s as an exclusive Coffee experience. 
+* Devising an attractive slogan/ positioning statement to catch the attention Coffee  connoisseurs / Coffeeholics. 
+* Introducing interesting Loyalty Programs can be a good strategy. 
+* Improving the Mobile App experience will also be beneficial in attracting customers by  making coffee experience easy and hassle free. User friendly apps have a significant impact  on the user experience and hence is an important factor to consider.  
+* Increase its Locations & Drive Thru facilities. On account of COVID 19 restrictions, drive  thru coffee is the most preferred option to buy coffee. 
+* Peet’s can promote its brand by providing offers and promotional discounts while also  partnering with local online delivery Apps like Uber Eats, Grubhub, DoorDash (Uber eats,  GrubHub) .This can help to reach more and more customers. 
+* Peets can increase their Social Media presence by using influencer marketing, using catchy  hashtags, paid promotions et. 
+* Peet’s can formulate attractive combo offers pairing coffee with popular food items on  their menu. 
+* Peet’s can market its tea component as well because other competitors (Starbucks,  McDonald’s, Dunkin Donuts) do not really serve Tea.
+
+## RE-POSITIONING STATEMENT FOR PEET’S COFFEE AND TEA 
+For [avid coffeeholics/coffee lovers who seek to find a comfortable, intimate, and relaxing  experience away from home and work/school], we offer [premium brewed coffee with an  unparalleled taste along with irresistible food products, refreshing cold beverages and cool retail  accessories along with unique combination of quality, selection, service, price, comfort] because  of our [exquisite selection of superior quality coffee beans, exceptional customer service and  relaxing atmosphere; “ we say the only thing we love more than coffee is our people”]. (From  Peet’s Tea and Coffee)
+- - - - - - - - - - -
+## REFERENCES 
+* https://www.referenceforbusiness.com/history2/38/Peet-s-Coffee-Tea-Inc.html
+* https://www.peets.com/pages/timeline 
+* Textbook: Principles of Marketing Engineering and Analytics (3rd edition) by Gary L. Lilien, Arvind Rangaswamy & Arnaud De Bruyn (Enginius software license: bundled with  e-textbook and cases)
