@@ -8,12 +8,7 @@ draft: false
 
 
 ![Sony Group Corporation](/images/SonyLogo.jpg) 
-
-Javier Hernandez  
-FIN 605  
-Prof. Scott Fung  
-12/5/21  
-- - - - - - - - - - - - - - 
+ 
 ## BUSINESS ANALYSIS
 #### Best Products/Services
 The Sony Group Corporation was founded in 1946 in Japan, and its IPO date was September 1970. The company trades in the New York Stock Exchange, under the stock ticker SONY, and the Tokyo Stock Exchange. Sony is a recognizable company that has brought many products to fame here in the US, from the introduction of the Walkman back in the 80s to the release of the PlayStation 5 last year. Sony has been a namesake in this country for quite some time now. Some of its best products/services include:

@@ -3,12 +3,7 @@ title: "Negotiating With Liars"
 date: 2022-02-17T22:20:42-07:00
 draft: false
 ---
-
-Javier Hernandez  
-MGMT 609  
-Prof. Madeline Damkar  
-February 17, 2022  
-- - - - - - - - - - - - - - - - - - -   
+  
 
 <iframe width="960" height="540" src="https://www.youtube.com/embed/gT2Bdwgjjtk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="false"></iframe>
 
